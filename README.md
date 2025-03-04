@@ -1,4 +1,4 @@
-Balance Adjust in Batch || Batch Recharge
+Batch Balance Adjust || Batch Recharge
 
 --version 1.0 (Put all files together inside a folder)
 P.S. This automation process has buggy and not stable :P. Use it with your own risk.
