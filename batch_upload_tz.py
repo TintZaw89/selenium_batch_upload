@@ -246,7 +246,7 @@ span = driver.find_element(By.CLASS_NAME,"iconfont")
 span.click()
 time.sleep(10)
 modulename = driver.find_element(By.ID,'searchMenuInput')
-modulename.send_keys(module) #Balance Adjust in Batch || Batch Recharge
+modulename.send_keys(module) # Batch Balance Adjust || Batch Recharge
 time.sleep(3)
 driver.find_element(By.ID,'secondThirdMenu-search').click()
 time.sleep(5)
